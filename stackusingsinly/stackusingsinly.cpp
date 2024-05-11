@@ -99,6 +99,11 @@ int main() {
 		case 4:
 			cout << "Exiting program.\n";
 			break;
+		default:
+			cout << "Invalid choice. Please enter a number from 1 to 4.\n";
+			break;
+		}
+	}
 
 
 
