@@ -96,6 +96,10 @@ int main() {
 				cout << "Stack is empty. No top value.\n";
 			}
 			break;
+		case 4:
+			cout << "Exiting program.\n";
+			break;
+
 
 
 
